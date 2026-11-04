@@ -1,66 +1,77 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F3A70,100:7C3AED&text=David%20Cruz&fontColor=ffffff&fontSize=56&fontAlignY=37&desc=Software%20Developer%20%7C%20Systems%20Engineering%20Student&descAlignY=59&descSize=17&animation=fadeIn" width="100%" alt="Portada David Cruz" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Developer+%F0%9F%9A%80;Full+Stack+Development+%F0%9F%92%BB;APIs+REST+%7C+Databases+%7C+Automation;Building+solutions+from+Guatemala+%F0%9F%87%AC%F0%9F%87%B9" alt="Especialidades animadas" /></a>
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:0B1020,45:123C73,100:06B6D4&text=DAVID%20CRUZ&fontColor=FFFFFF&fontSize=62&fontAlignY=39&desc=SOFTWARE%20DEVELOPER%20%7C%20GUATEMALA&descAlignY=61&descSize=17&animation=fadeIn" alt="David Cruz — Software Developer" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=850&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&height=65&lines=Backend+Development+%26+Software+Architecture;Building+Modern+Web+Applications;APIs+%7C+Databases+%7C+Automation;Turning+Ideas+Into+Real+Solutions" alt="Animated introduction: backend development, web applications and automation" /></a>
 
-<a href="https://github.com/IngDcruz11"><img src="https://img.shields.io/badge/GitHub-IngDcruz11-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=IngDcruz11&style=for-the-badge&color=7C3AED&label=Visitas+al+perfil" alt="Visitas al perfil" />
+Estudiante de Ingeniería en Sistemas y Ciencias de la Computación
+Universidad Mariano Gálvez de Guatemala
 
-🇬🇹 Guatemala · Ingeniería en Sistemas y Ciencias de la Computación
-</div>👨‍💻 Sobre mí
-¡Hola! Soy David Cruz, estudiante de Ingeniería en Sistemas y Ciencias de la Computación en la Universidad Mariano Gálvez de Guatemala. Me gusta diseñar soluciones de software para necesidades reales, especialmente sistemas administrativos, aplicaciones web y servicios backend.
-- 🔭 Actualmente: Desarrollo aplicaciones web, APIs REST y herramientas de gestión.
-- 🧩 Me interesa: Arquitectura backend, bases de datos, seguridad y automatización.
-- 🌱 Sigo aprendiendo: Buenas prácticas, DevOps e integración de inteligencia artificial.
-- 👨‍🏫 También disfruto: La enseñanza técnica y compartir conocimientos.
-- 🔌 Fuera del navegador: Experimento con ESP8266, sensores e IoT.
-🛠️ Stack tecnológico
+<a href="https://github.com/IngDcruz11?tab=repositories"><img src="https://img.shields.io/badge/EXPLORAR%20PROYECTOS-101827?style=for-the-badge&logo=github&logoColor=white" alt="Explorar proyectos" /></a>
+<a href="https://github.com/IngDcruz11"><img src="https://img.shields.io/badge/GITHUB-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub" /></a>
+</div>
+PERFIL
+Desarrollo soluciones de software centradas en automatización, sistemas de gestión y aplicaciones web. Me interesa construir servicios backend confiables, integrar bases de datos y convertir necesidades reales en productos funcionales.
+
+Mi experiencia práctica incluye proyectos académicos y personales con .NET, NestJS, Node.js, React, Next.js, Laravel y Vue, además de experimentación con ESP8266 e IoT. También me interesa compartir conocimientos mediante la enseñanza técnica.
+Enfoque: desarrollo backend · aplicaciones full stack · diseño de APIs · bases de datos · automatización
+
+TECNOLOGÍAS
 <div align="center">Lenguajes
-<img src="https://skillicons.dev/icons?i=cs,ts,js,python,php&theme=dark" alt="C Sharp, TypeScript, JavaScript, Python y PHP" />
-Backend y frontend
-<img src="https://skillicons.dev/icons?i=dotnet,nestjs,nodejs,express,laravel,nextjs,react,vue&theme=dark" alt="Frameworks backend y frontend" />
-Bases de datos
+<img src="https://skillicons.dev/icons?i=cs,ts,js,python,php,cpp&theme=dark" alt="C#, TypeScript, JavaScript, Python, PHP y C++" />
+Backend y frameworks
+<img src="https://skillicons.dev/icons?i=dotnet,nestjs,nodejs,express,laravel&theme=dark" alt=".NET, NestJS, Node.js, Express y Laravel" />
+Frontend
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,html,css,tailwind,vite&theme=dark" alt="Next.js, React, Vue, HTML, CSS, Tailwind y Vite" />
+Bases de datos y servicios
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark" alt="PostgreSQL, MySQL, MongoDB y Supabase" />
 Herramientas
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,arduino&theme=dark" alt="Docker, Git, GitHub, Visual Studio Code, Postman y Arduino" /><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /></div>🚀 Proyectos destacados
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,arduino&theme=dark" alt="Git, GitHub, Docker, VS Code, Postman y Arduino" />
+También: SQL Server · GitHub Actions · Google Apps Script · REST APIs
+</div>PROYECTOS DESTACADOS
 <table>
 <tr>
-<td width="50%" valign="top">🎓 AulaNova ERP
-Sistema de gestión académica con administración de estudiantes, docentes, cursos, asistencias, calificaciones y permisos por rol.
+<td width="50%" valign="top">AulaNova ERP
+Plataforma de gestión académica
 
-Stack: NestJS · TypeScript · PostgreSQL · React · Supabase
+Sistema de administración académica con módulos de estudiantes, cursos, inscripciones, calificaciones, asistencia y control de acceso por roles.
 
-<sub>Proyecto académico · En desarrollo</sub>
+NestJS TypeScript PostgreSQL React Supabase
 </td>
-<td width="50%" valign="top">🏥 Sistema de gestión médica
-Aplicación para administrar citas, colaboradores, habitaciones, horarios y facturación de un centro médico.
+<td width="50%" valign="top">Sistema de solvencias
+Consulta y emisión de constancias
 
-Stack: Laravel · Vue.js · MongoDB
+Aplicación para consultar el estado de pagos estudiantiles y generar constancias listas para imprimir, conectada con Google Sheets.
 
-<sub>Proyecto académico</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">📄 Solvencias estudiantiles
-Consulta de pagos y generación de constancias listas para imprimir, con integración a Google Sheets y diseño adaptable a móviles.
-
-Stack: React · Node.js · Express · Google Apps Script
+React Node.js Express Google Apps Script
 
 Ver repositorio
 </td>
-<td width="50%" valign="top">🌱 Automatización e IoT
-Prototipos con ESP8266 para monitorear sensores, controlar actuadores y administrar dispositivos desde interfaces web.
+</tr>
+<tr>
+<td width="50%" valign="top">Gestión médica
+Aplicación administrativa web
 
-Stack: ESP8266 · C++ · Arduino IDE · Sensores
+Proyecto de gestión con módulos para citas, colaboradores, horarios, habitaciones y facturación.
 
-<sub>Prototipos y laboratorios</sub>
+Laravel Vue.js MongoDB
+</td>
+<td width="50%" valign="top">Automatización e IoT
+Prototipos con microcontroladores
+
+Experimentos con sensores, actuadores e interfaces web para sistemas de riego y monitoreo automatizado.
+
+ESP8266 C++ Arduino Sensores
 </td>
 </tr>
-</table>💡 Me gusta transformar procesos manuales en herramientas útiles, sencillas y confiables.
+</table><div align="center">
+<a href="https://github.com/IngDcruz11?tab=repositories"><img src="https://img.shields.io/badge/VER%20TODOS%20MIS%20REPOSITORIOS-123C73?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos mis repositorios" /></a>
+</div>ACTIVIDAD EN GITHUB
+<div align="center"><img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=IngDcruz11&theme=github-compact&bg_color=0D1117&color=22D3EE&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de contribuciones de GitHub" /><img height="175" src="https://github-readme-stats.vercel.app/api?username=IngDcruz11&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngDcruz11&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Lenguajes utilizados en GitHub" /><sub>Las estadísticas se generan mediante servicios externos y pueden tardar en cargar. Los lenguajes reflejan los repositorios analizados, no un nivel de dominio.</sub>
+</div>EN QUÉ ME ENFOCO
+Backend y APIs — Diseño de servicios, autenticación, control de acceso e integraciones.
+Aplicaciones web — Interfaces modernas conectadas a sistemas robustos.
+Datos y automatización — Modelado de información, consultas y procesos más eficientes.
+Aprendizaje continuo — Arquitectura de software, DevOps e inteligencia artificial aplicada.
+<div align="center">Construyamos algo útil.
+Explora mis proyectos, revisa mi código y conecta conmigo en GitHub.
 
-📊 Actividad en GitHub
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IngDcruz11&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Estadísticas de GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngDcruz11&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Lenguajes más utilizados" /><img src="https://github-readme-activity-graph.vercel.app/graph?username=IngDcruz11&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Gráfica de actividad de GitHub" /><sub>Estas estadísticas dependen de servicios externos y pueden no estar disponibles temporalmente. Los lenguajes reflejan repositorios analizados, no el nivel de dominio.</sub>
-</div>🤝 Conectemos
-Me interesa colaborar, aprender y compartir ideas sobre desarrollo de software, automatización e IoT. Puedes explorar mis proyectos y seguir mi trabajo aquí:
-<div align="center">
-<a href="https://github.com/IngDcruz11?tab=repositories"><img src="https://img.shields.io/badge/Explorar%20mis%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar mis repositorios" /></a>
-✨ Construir, aprender y mejorar continuamente.
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:1F3A70,100:7C3AED" width="100%" alt="Fin de la presentación" /></div>
+<a href="https://github.com/IngDcruz11"><img src="https://img.shields.io/badge/GITHUB%20%2F%20IngDcruz11-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de David Cruz" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0B1020&height=100&section=footer" alt="" /></div>
