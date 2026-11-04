@@ -24,7 +24,7 @@ Lenguajes
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark&perline=4" alt="PostgreSQL, MySQL, MongoDB, Supabase" />
 </p>Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,arduino&theme=dark&perline=6" alt="Git, GitHub, Docker, VS Code, Postman, Arduino" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,arduino,visualstudio&theme=dark&perline=6" alt="Git, GitHub, Docker, VS Code, Postman, Arduino" />
 </p>También trabajo con: SQL Server · Google Apps Script · GitHub Actions · APIs REST
 PROYECTOS SELECCIONADOS
 AulaNova ERP
