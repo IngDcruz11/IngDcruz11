@@ -21,7 +21,7 @@ Lenguajes
   <img src="https://skillicons.dev/icons?i=nextjs,react,vue,html,css,tailwind,vite&theme=dark&perline=7" alt="Next.js, React, Vue, HTML, CSS, Tailwind, Vite" />
 </p>Bases de datos y servicios
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark&perline=4" alt="PostgreSQL, MySQL, MongoDB, Supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,microsoftsqlserver&theme=dark&perline=4" alt="PostgreSQL, MySQL, MongoDB, Supabase, SqlServer" />
 </p>Herramientas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,arduino,visualstudio&theme=dark&perline=6" alt="Git, GitHub, Docker, VS Code, Postman, Arduino" />
